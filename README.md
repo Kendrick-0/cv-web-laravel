@@ -5,14 +5,10 @@ NAMA: Ahmad Rafli Gani
 NIM: 2330521001
 
 
-![]https://i.imgur.com/3ht3ATI.png
-![]https://i.imgur.com/XM5YRDD.png
-![]https://i.imgur.com/UGYwvLk.png
-![]https://i.imgur.com/uCcv32V.png
-
-![](https://imgur.com/a/cv-berbasis-web-ZIPyYmZ)
-
-
+![Tampilan Halaman Home]https://i.imgur.com/3ht3ATI.png
+![Tampilan Halaman Keahlian]https://i.imgur.com/XM5YRDD.png
+![Tampilan Halaman Pendidikan]https://i.imgur.com/UGYwvLk.png
+![Tampilan Halaman Pengalaman]https://i.imgur.com/uCcv32V.png
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
