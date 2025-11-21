@@ -4,7 +4,11 @@ NAMA: Ahmad Rafli Gani
 
 NIM: 2330521001
 
-(https://imgur.com/a/cv-berbasis-web-ZIPyYmZ)
+
+![]https://i.imgur.com/3ht3ATI.png
+![]https://i.imgur.com/XM5YRDD.png
+![]https://i.imgur.com/UGYwvLk.png
+![]https://i.imgur.com/uCcv32V.png
 
 ![](https://imgur.com/a/cv-berbasis-web-ZIPyYmZ)
 
